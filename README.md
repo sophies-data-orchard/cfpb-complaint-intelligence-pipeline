@@ -37,6 +37,7 @@ No data files are included in this repo (the raw export alone is several GB). Ea
 ├── 06_dspy_triage_module.ipynb
 ├── requirements.txt
 ├── README.md
+├── cfpb_pipeline_flowchart.png
 └── data/                  # not included — populated by running notebooks in order
 ```
 
