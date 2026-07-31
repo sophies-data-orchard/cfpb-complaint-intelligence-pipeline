@@ -1,0 +1,34 @@
+# Core data handling
+pandas
+numpy
+
+# Notebook 01 — EDA
+matplotlib
+seaborn
+
+# Notebook 02 — Topic Modeling
+gensim
+pyLDAvis
+
+# Notebook 03 — Entity Extraction
+spacy
+# after installing spacy, also run:
+#   python -m spacy download en_core_web_sm
+
+# Notebook 04 — Classification (structured baselines + transformer fine-tuning)
+scikit-learn
+torch
+transformers
+datasets
+
+# Notebook 05 — RAG Pipeline
+langchain
+langchain-core
+langchain-community
+langchain-text-splitters
+sentence-transformers
+faiss-cpu
+
+# Notebook 06 — DSPy Triage Module
+dspy-ai
+google-generativeai   # Gemini API client, used via DSPy's LM interface
