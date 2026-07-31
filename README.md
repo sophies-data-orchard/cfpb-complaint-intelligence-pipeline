@@ -45,7 +45,6 @@ No data files are included in this repo (the raw export alone is several GB). Ea
 
 This project was built with Claude (Anthropic) as an AI coding and analysis assistant — most of the code and initial drafts of the analysis text were AI-generated. My role was directing the work: deciding what to investigate at each step, catching errors (including a few real bugs in the AI's own output — see notes below), setting the methodological standards (e.g., insisting on held-out evaluation splits, rejecting overstated claims, and rebuilding an evaluation metric twice after finding it didn't actually measure what it claimed to), running every diagnostic myself, and validating results against real output before drawing conclusions rather than accepting generated summaries at face value.
 
-I'm stating this plainly because I think how someone works with AI tools is worth being transparent about, not something to obscure. The judgment calls throughout this project — what to trust, what to re-check, when a good-looking number was actually wrong — are mine.
 
 ## Notes
 
